@@ -2,6 +2,12 @@ This is the first commit file that was created
 Now, here comes the second commit 
 
 This is commited in the experiment branch 
+<<<<<<< HEAD
 
 This is the change I am making with the first file which is in the development branch
 
+=======
+------
+
+This is the commitment that I am makig with the first file that is in the experiment branch
+>>>>>>> experiment
