@@ -1,1 +1,2 @@
 This is the first commit file that was created
+Now, here comes the second commit 
